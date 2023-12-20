@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a final-year undergraduate student in Department of Automation, School of Information at Tsinghua University. I am also a member of Class of General Artificial Intelligence led by Prof. Songchun Zhu, and I minor in statistics.
 
 ## Research Interests
 
