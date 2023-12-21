@@ -10,7 +10,7 @@ I am actively looking for PhD this year!
 
 ## Research Interests
 
-My research interest lies broadly in **theoretical and applied machine learning**, with a focus on learning for (semi-)structured, discrete and combinatorial data including **graph, geometry and topology**. Currently, I aim to understand the foundation of machine learning and graph learning. I'm also experienced in application areas including Computer Vision, Natural Language Processing and Computational Biology.
+My research interest lies broadly in **theoretical and applied machine learning**, with a focus on learning for (semi-)structured, discrete and combinatorial data including **graph, geometry and topology**. Currently, I aim to understand the foundations of machine learning and graph learning. I'm also experienced in application areas including Computer Vision, Natural Language Processing and Computational Biology.
 
 Centered at machine learning and graph learning, my long term research goal is to empower science and AI with learning across various subfields including vision, language and structured data. Concretely, I will be dedicated to the following topics: (1) **Multi-modal learning**, or more broadly, foundation models and general purpose AI systems that can perceive and reason like human; (2) **AI4science**, especially for molecule representation and generation, drug discovery and healthcare.
 
