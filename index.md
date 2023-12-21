@@ -8,14 +8,18 @@ I am a final-year undergraduate student in Department of Automation, School of I
 
 ## Research Interests
 
+My research interest lies broadly in **theoretical and applied machine learning**, with a focus on learning for (semi-)structured, discrete and combinatorial data including **graph, geometry and topology**. Currently, I aim to understand the foundation of machine learning (information theory, optimization, statistics) and graph learning (theoretical expressive power, representation and generation, scalability). I'm also experienced in application areas including Computer Vision, Natural Language Processing and Computational Biology.
+
+Centered at machine learning and graph learning, my long term research goal is to empower science and AI with learning across various subfields including vision, language and structured data. Concretely, I will be dedicated to the following topics: (1) **multi-modal foundation models**, or more broadly, AI systems that can perceive and reason like human; (2) **AI4science**, especially for molecule representation and generation, drug discovery and healthcare.
+
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
+- **[Dec. 2023]** I'm attending NeurIPS in New Orleans to present my paper. Welcome chat!
+- **[Sept. 2023]** Our paper Facilitating Graph Neural Networks with Random Walk on Simplicial Complexes is accepted to NeurIPS 2023.
+- **[. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
