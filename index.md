@@ -8,12 +8,14 @@ I am a final-year undergraduate student in Department of Automation, School of I
 
 ## Research Interests
 
-My research interest lies broadly in **theoretical and applied machine learning**, with a focus on learning for (semi-)structured, discrete and combinatorial data including **graph, geometry and topology**. Currently, I aim to understand the foundation of machine learning (information theory, optimization, statistics) and graph learning (theoretical expressive power, representation and generation, scalability). I'm also experienced in application areas including Computer Vision, Natural Language Processing and Computational Biology.
+My research interest lies broadly in **theoretical and applied machine learning**, with a focus on learning for (semi-)structured, discrete and combinatorial data including **graph, geometry and topology**. Currently, I aim to understand the foundation of machine learning and graph learning. I'm also experienced in application areas including Computer Vision, Natural Language Processing and Computational Biology.
 
-Centered at machine learning and graph learning, my long term research goal is to empower science and AI with learning across various subfields including vision, language and structured data. Concretely, I will be dedicated to the following topics: (1) **multi-modal foundation models**, or more broadly, AI systems that can perceive and reason like human; (2) **AI4science**, especially for molecule representation and generation, drug discovery and healthcare.
+Centered at machine learning and graph learning, my long term research goal is to empower science and AI with learning across various subfields including vision, language and structured data. Concretely, I will be dedicated to the following topics: (1) **Multi-modal learning**, or more broadly, foundation models and general purpose AI systems that can perceive and reason like human; (2) **AI4science**, especially for molecule representation and generation, drug discovery and healthcare.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Theoretical Machine Learning:** information theory, optimization, statistical machine learning, causal inference
+- **Empirical Machine Learning:** diffusion models, LLM reasoning
+%- **Graph Learning:** theoretical expressive power, representation and generation, scalability
+- **AI for Biology:** representation and generation of molecules and proteins, drug discovery, healthcare
 
 ## News
 
