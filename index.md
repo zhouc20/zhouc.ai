@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a final-year undergraduate student in Department of Automation, School of Information at Tsinghua University. I am also a member of Class of General Artificial Intelligence led by Prof. Songchun Zhu, and I minor in statistics.
+I am a final-year undergraduate student in Department of Automation, School of Information at Tsinghua University. I am also a member of Class of General Artificial Intelligence led by Prof. Songchun Zhu, and I minor in statistics. 
+
+I am actively looking for PhD this year!
 
 ## Research Interests
 
@@ -14,15 +16,13 @@ Centered at machine learning and graph learning, my long term research goal is t
 
 - **Theoretical Machine Learning:** information theory, optimization, statistical machine learning, causal inference
 - **Empirical Machine Learning:** diffusion models, LLM reasoning
-%- **Graph Learning:** theoretical expressive power, representation and generation, scalability
 - **AI for Biology:** representation and generation of molecules and proteins, drug discovery, healthcare
 
 ## News
 
 - **[Dec. 2023]** I'm attending NeurIPS in New Orleans to present my paper. Welcome chat!
 - **[Sept. 2023]** Our paper Facilitating Graph Neural Networks with Random Walk on Simplicial Complexes is accepted to NeurIPS 2023.
-- **[. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May. 2023]** Our paper From Relational Pooling to Subgraph GNNs: A Universal Framework for More Expressive Graph Neural Networks is accepted to ICML 2023.
 
 {% include_relative _includes/publications.md %}
 
