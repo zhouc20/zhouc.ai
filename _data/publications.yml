@@ -29,4 +29,14 @@ main:
     # code: https://github.com/zhouc20/HodgeRandomWalk
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Example_Hodge1.png
-    notes: Under review. Review scores (pre-rebuttal): 4 (accept), 4 (accept), 3 (borderline accept)
+    notes: Review scores (pre-rebuttal): 4 (accept), 4 (accept), 3 (borderline accept)
+
+  - title: Locally Supervised Deep Learning by Maximizing Information Propagation
+    authors: Yulin Wang, Zanlin Ni, Yifan Pu, <strong>Cai Zhou</strong>, Shiji Song, Gao Huang
+    conference_short: Preprint
+    conference: International Journal of Computer Vision <strong>(IJCV)</strong>. Under review.
+    # pdf: https://arxiv.org/abs/2310.19285
+    # code: https://github.com/zhouc20/HodgeRandomWalk
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Example_Hodge1.png
+    # notes: Review scores (pre-rebuttal): 4 (accept), 4 (accept), 3 (borderline accept)
