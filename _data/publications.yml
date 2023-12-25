@@ -14,7 +14,7 @@ main:
     authors: <strong>Cai Zhou</strong>*, Xiyuan Wang*, Muhan Zhang
     conference_short: ICML 2023
     conference: Fortieth International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
-    pdf: https://arxiv.org/abs/2305.04963
+    pdf: https://proceedings.mlr.press/v202/zhou23n.html
     code: https://github.com/zhouc20/KLGNN
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/ICML2023.bib
