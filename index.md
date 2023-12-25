@@ -6,8 +6,7 @@ layout: homepage
 
 I am a senior year undergraduate student in [Department of Automation](https://www.au.tsinghua.edu.cn/en/), School of Information at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.html). I am also a member of Class of General Artificial Intelligence led by Prof. Songchun Zhu, and I minor in statistics. 
 
-In my undergraduate research, I am fortunate to work with [Muhan Zhang](https://muhanzhang.github.io/) at Institute for Artificial Intelligence of Peking University. We have great collaborations working on machine learning theories, graph neural networks, AI4Science and LLM/foundation models. In the summer of 2023, I had the privilege to intern at UCSD advised by [Yusu Wang](http://yusu.belkin-wang.org/) and [Rose Yu](https://roseyu.com/) on machine learning. I also worked with [Gao Huang](https://www.gaohuang.net/) at Tsinghua University on computer vision and [Jason D. Lee](https://jasondlee88.github.io/) at Princeton University on theoretical machine learning.
-
+In my undergraduate research, I am fortunate to work with [Muhan Zhang](https://muhanzhang.github.io/) at Institute for Artificial Intelligence of Peking University. We have great collaborations working on machine learning theories, graph neural networks, AI4Science and LLM/foundation models. In the summer of 2023, I had the privilege to intern at UCSD advised by [Yusu Wang](http://yusu.belkin-wang.org/) and [Rose Yu](https://roseyu.com/) on machine learning. I also worked with [Gao Huang](https://www.gaohuang.net/) at Tsinghua University on computer vision. 
 I am actively looking for PhD this year!
 
 ## Research Interests
