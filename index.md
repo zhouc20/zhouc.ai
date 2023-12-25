@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a final-year undergraduate student in Department of Automation, School of Information at Tsinghua University. I am also a member of Class of General Artificial Intelligence led by Prof. Songchun Zhu, and I minor in statistics. 
+I am a senior year undergraduate student in [Department of Automation](https://www.au.tsinghua.edu.cn/en/), School of Information at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.html). I am also a member of Class of General Artificial Intelligence led by Prof. Songchun Zhu, and I minor in statistics. 
+
+In my undergraduate research, I am fortunate to work with [Muhan Zhang](https://muhanzhang.github.io/) at Institute for Artificial Intelligence of Peking University. We have great collaborations working on machine learning theories, graph neural networks and LLM/foundation models. In the summer of 2023, I had the privilege to intern at UCSD advised by [Yusu Wang](http://yusu.belkin-wang.org/) and [Rose Yu](https://roseyu.com/). I also worked with [Gao Huang](https://www.gaohuang.net/) at Tsinghua University and [Jason D. Lee](https://jasondlee88.github.io/) at Princeton University.
 
 I am actively looking for PhD this year!
 
@@ -16,7 +18,7 @@ Centered at machine learning and graph learning, my long term research goal is t
 
 - **Theoretical Machine Learning:** information theory, optimization, statistical machine learning, causal inference
 - **Empirical Machine Learning:** diffusion models, LLM reasoning
-- **AI for Biology:** representation and generation of molecules and proteins, drug discovery, healthcare
+- **AI for Science:** representation and generation of molecules and proteins, drug discovery, healthcare
 
 ## News
 
