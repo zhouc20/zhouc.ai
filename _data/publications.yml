@@ -17,6 +17,6 @@ main:
     pdf: https://arxiv.org/abs/2305.04963
     code: https://github.com/zhouc20/KLGNN
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/ICML2023.bib
     # notes: Oral Presentation
     image: ./assets/img/k,l-WL.png
