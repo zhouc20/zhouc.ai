@@ -10,7 +10,7 @@ main:
     image: ./assets/img/Example_Hodge1.png
     # notes: Early Accept
 
-  - title: From Relational Pooling to Subgraph GNNs: A Universal Framework for More Expressive Graph Neural Networks
+  - title: From Relational Pooling to Subgraph GNNs：A Universal Framework for More Expressive Graph Neural Networks
     authors: <strong>Cai Zhou</strong>*, Xiyuan Wang*, Muhan Zhang
     conference_short: ICML 2023
     conference: Fortieth International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
