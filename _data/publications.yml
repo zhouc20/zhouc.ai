@@ -20,4 +20,13 @@ main:
     bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/ICML2023.bib
     # notes: Oral Presentation
     image: ./assets/img/k,l-WL.png
-    
+
+  - title: On the Theoretical Expressive Power and Design Space of High Order Graph Transformers
+    authors: <strong>Cai Zhou</strong>, Rose Yu, Yusu Wang
+    conference_short: Preprint
+    conference: Twenty-seventh International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2024. Under review.
+    # pdf: https://arxiv.org/abs/2310.19285
+    # code: https://github.com/zhouc20/HodgeRandomWalk
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Example_Hodge1.png
+    notes: Under review. Review scores (pre-rebuttal): 4 (accept), 4 (accept), 3 (borderline accept)
