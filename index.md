@@ -15,9 +15,9 @@ My research interest lies broadly in **theoretical and applied machine learning*
 
 Centered at machine learning and graph learning, my long term research goal is to empower science and AI with learning across various subfields including vision, language and structured data. Concretely, I will be dedicated to the following topics: (1) **Multi-modal learning**, or more broadly, foundation models and general purpose AI systems that can perceive and reason like human; (2) **AI4science**, especially for molecule representation and generation, drug discovery and healthcare.
 
-- **Theoretical Machine Learning:** information theory, optimization, statistical machine learning, causal inference
-- **Empirical Machine Learning:** diffusion models, LLM reasoning
-- **AI for Science:** representation and generation of molecules and proteins, drug discovery, healthcare
+- **Theoretical Machine Learning:** optimization, statistical machine learning, causal inference
+- **Empirical Machine Learning:** diffusion models, LLM reasoning, multi-modal foundation models
+- **AI for Science:** molecule/protein generation, drug discovery, healthcare
 
 ## News
 
