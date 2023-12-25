@@ -28,7 +28,7 @@ main:
     # pdf: https://arxiv.org/abs/2310.19285
     # code: https://github.com/zhouc20/HodgeRandomWalk
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Example_Hodge1.png
+    image: ./assets/img/k-Transformer.png
     notes: Review scores (pre-rebuttal): 4 (accept), 4 (accept), 3 (borderline accept)
 
   - title: Locally Supervised Deep Learning by Maximizing Information Propagation
@@ -38,5 +38,5 @@ main:
     # pdf: https://arxiv.org/abs/2310.19285
     # code: https://github.com/zhouc20/HodgeRandomWalk
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Example_Hodge1.png
+    image: ./assets/img/InfoPro.png
     # notes: Review scores (pre-rebuttal): 4 (accept), 4 (accept), 3 (borderline accept)
