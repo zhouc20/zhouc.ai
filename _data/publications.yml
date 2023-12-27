@@ -6,7 +6,7 @@ main:
     conference: Thirty-seventh Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     pdf: https://arxiv.org/abs/2310.19285
     code: https://github.com/zhouc20/HodgeRandomWalk
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
     image: ./assets/img/Example_Hodge1.png
     # notes: Early Accept
 
