@@ -23,14 +23,14 @@ main:
 
   - title: On the Theoretical Expressive Power and Design Space of High Order Graph Transformers
     authors: <strong>Cai Zhou</strong>, Rose Yu, Yusu Wang
-    conference_short: Preprint
-    conference: Twenty-seventh International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2024. Under review.
+    conference_short: AISTATS 2024
+    conference: Twenty-seventh International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2024.
     # pdf: https://arxiv.org/abs/2310.19285
     # code: https://github.com/zhouc20/HodgeRandomWalk
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/k-Transformer.png
-    notes: Review scores (pre-rebuttal)：4 (accept), 4 (accept), 3 (borderline accept)
-
+    notes: Camera-ready would be soon available
+    
   - title: Locally Supervised Deep Learning by Maximizing Information Propagation
     authors: Yulin Wang, Zanlin Ni, Yifan Pu, <strong>Cai Zhou</strong>, Shiji Song, Gao Huang
     conference_short: Preprint
