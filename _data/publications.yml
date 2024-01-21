@@ -1,5 +1,15 @@
 main:
 
+  - title: On the Theoretical Expressive Power and Design Space of High Order Graph Transformers
+    authors: <strong>Cai Zhou</strong>, Rose Yu, Yusu Wang
+    conference_short: AISTATS 2024
+    conference: Twenty-seventh International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2024.
+    # pdf: https://arxiv.org/abs/2310.19285
+    # code: https://github.com/zhouc20/HodgeRandomWalk
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/k-Transformer.png
+    notes: Camera-ready would be soon available
+
   - title: Facilitating Graph Neural Networks with Random Walk on Simplicial Complexes
     authors: <strong>Cai Zhou</strong>, Xiyuan Wang, Muhan Zhang
     conference_short: NeurIPS 2023
@@ -20,16 +30,6 @@ main:
     bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/ICML2023.bib
     # notes: Oral Presentation
     image: ./assets/img/k,l-WL.png
-
-  - title: On the Theoretical Expressive Power and Design Space of High Order Graph Transformers
-    authors: <strong>Cai Zhou</strong>, Rose Yu, Yusu Wang
-    conference_short: AISTATS 2024
-    conference: Twenty-seventh International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2024.
-    # pdf: https://arxiv.org/abs/2310.19285
-    # code: https://github.com/zhouc20/HodgeRandomWalk
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/k-Transformer.png
-    notes: Camera-ready would be soon available
     
   - title: Locally Supervised Deep Learning by Maximizing Information Propagation
     authors: Yulin Wang, Zanlin Ni, Yifan Pu, <strong>Cai Zhou</strong>, Shiji Song, Gao Huang
