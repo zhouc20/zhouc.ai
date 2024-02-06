@@ -1,5 +1,14 @@
 main:
 
+  - title: Latent Graph Diffusion: A Unified Framework for Generation and Prediction on Graphs
+    authors: <strong>Cai Zhou</strong>, Xiyuan Wang, Muhan Zhang
+    conference_short: Preprint
+    conference: Forty-first International Conference on Machine Learning <strong>(ICML)</strong>, 2024. Under review.
+    pdf: https://arxiv.org/abs/2402.02518
+    # code: https://github.com/zhouc20/HodgeRandomWalk
+    # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
+    # image: ./assets/img/Example_Hodge1.png
+
   - title: On the Theoretical Expressive Power and Design Space of High Order Graph Transformers
     authors: <strong>Cai Zhou</strong>, Rose Yu, Yusu Wang
     conference_short: AISTATS 2024
