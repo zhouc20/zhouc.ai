@@ -24,6 +24,7 @@ Centered at machine learning and graph learning, my long term research goal is t
 
 - **[Jan. 2024]** Our paper on higher-order transformers is accepted to AISTATS 2024.
 - **[Dec. 2023]** I'm attending NeurIPS in New Orleans to present my paper. Welcome chat!
+- **[Oct. 2023]** Awarded the National Scholarship (Top 0.5% in Tsinghua University).
 - **[Sept. 2023]** Our paper Facilitating Graph Neural Networks with Random Walk on Simplicial Complexes is accepted to NeurIPS 2023.
 - **[May. 2023]** Our paper From Relational Pooling to Subgraph GNNs: A Universal Framework for More Expressive Graph Neural Networks is accepted to ICML 2023.
 
