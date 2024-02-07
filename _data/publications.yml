@@ -1,6 +1,6 @@
 main:
 
-  - title: Latent Graph Diffusion: A Unified Framework for Generation and Prediction on Graphs
+  - title: Latent Graph Diffusion：A Unified Framework for Generation and Prediction on Graphs
     authors: <strong>Cai Zhou</strong>, Xiyuan Wang, Muhan Zhang
     conference_short: Preprint
     conference: Forty-first International Conference on Machine Learning <strong>(ICML)</strong>, 2024. Under review.
