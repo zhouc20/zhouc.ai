@@ -22,6 +22,7 @@ Centered at machine learning and graph learning, my long term research goal is t
 
 ## News
 
+- **[Feb. 2024]** New preprint on Latent Graph Diffusion for both generation and prediction tasks.
 - **[Jan. 2024]** Our paper on higher-order transformers is accepted to AISTATS 2024.
 - **[Dec. 2023]** I'm attending NeurIPS in New Orleans to present my paper. Welcome chat!
 - **[Oct. 2023]** Awarded the National Scholarship (Top 0.5% in Tsinghua University).
