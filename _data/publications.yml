@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/abs/2402.02518
     # code: https://github.com/zhouc20/HodgeRandomWalk
     # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
-    image: ./assets/img/LatentDiffusion.png
+    image: ./assets/img/thumbnail.png
 
   - title: On the Theoretical Expressive Power and Design Space of High Order Graph Transformers
     authors: <strong>Cai Zhou</strong>, Rose Yu, Yusu Wang
