@@ -8,6 +8,8 @@ I am a senior year undergraduate student in [Department of Automation](https://w
 
 In my undergraduate research, I am fortunate to work with [Muhan Zhang](https://muhanzhang.github.io/) at Institute for Artificial Intelligence of Peking University. We have great collaborations working on machine learning theories, graph neural networks, AI4Science and LLM/foundation models. In the summer of 2023, I had the privilege to intern at UCSD advised by [Yusu Wang](http://yusu.belkin-wang.org/) and [Rose Yu](https://roseyu.com/) on machine learning. I also worked with [Gao Huang](https://www.gaohuang.net/) at Tsinghua University on computer vision. 
 
+I will start my PhD this year!
+
 ## Research Interests
 
 My research interest lies broadly in **theoretical and applied machine learning**, with a focus on learning for (semi-)structured, discrete and combinatorial data including **graph, geometry and topology**. Currently, I aim to understand the foundations of machine learning and graph learning. I'm also experienced in application areas including Computer Vision, Natural Language Processing and Computational Biology.
