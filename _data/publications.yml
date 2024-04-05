@@ -13,11 +13,11 @@ main:
     authors: <strong>Cai Zhou</strong>, Rose Yu, Yusu Wang
     conference_short: AISTATS 2024
     conference: Twenty-seventh International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2024.
-    # pdf: https://arxiv.org/abs/2310.19285
+    pdf: https://arxiv.org/abs/2404.03380
     # code: https://github.com/zhouc20/HodgeRandomWalk
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/k-Transformer.png
-    notes: Camera-ready would be soon available
+    # notes: Camera-ready would be soon available
 
   - title: Facilitating Graph Neural Networks with Random Walk on Simplicial Complexes
     authors: <strong>Cai Zhou</strong>, Xiyuan Wang, Muhan Zhang
