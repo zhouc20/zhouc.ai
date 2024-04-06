@@ -3,7 +3,7 @@ main:
   - title: Latent Graph Diffusion：A Unified Framework for Generation and Prediction on Graphs
     authors: <strong>Cai Zhou</strong>, Xiyuan Wang, Muhan Zhang
     conference_short: Preprint
-    conference: Forty-first International Conference on Machine Learning <strong>(ICML)</strong>, 2024. Under review.
+    conference: Preprint. Under review.
     pdf: https://arxiv.org/abs/2402.02518
     # code: https://github.com/zhouc20/HodgeRandomWalk
     # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
