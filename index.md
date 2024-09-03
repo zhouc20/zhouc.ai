@@ -10,20 +10,15 @@ Prior to my PhD, I received a bachelor from the [Department of Automation](https
 
 ## Research Interests
 
-My research interest lies broadly in **theoretical and applied machine learning**. I aim to understand the foundations of machine learning, with a special focus on its probabilistic and geometric nature. I'm also interested in application areas including computer vision, natural language processing and computational biology.
+My research interest lies broadly in **theoretical and applied machine learning**. I aim to understand the foundations of machine learning, with a special focus on its probabilistic and geometric nature. I'm also interested in application areas including computer vision, natural language processing and computational biology. Some of my interested research topics include:
 
-
-%with a focus on learning for (semi-)structured, discrete and combinatorial data including **graph, geometry and topology**. Currently, I aim to understand the foundations of machine learning and graph learning. I'm also experienced in application areas including Computer Vision, Natural Language Processing and Computational Biology.
-
-%Centered at machine learning and graph learning, my long term research goal is to empower science and AI with learning across various subfields including vision, language and structured data. Concretely, I will be dedicated to the following topics: (1) **Multi-modal learning**, or more broadly, foundation models and general purpose AI systems that can perceive and reason like human; (2) **AI4science**, especially for biology, drug discovery and healthcare.
-
-- **Theoretical Machine Learning:** optimization, statistical machine learning, causal inference
-- **Generative Models:** diffusion models, LLM and agents, multi-modal foundation models
+- **Theoretical Machine Learning:** optimization, statistical machine learning, game theory
+- **Generative Models:** diffusion models, LLMs and agents, multi-modal foundation models
 - **AI for Science:** geometric deep learning, AI4biology, AI4healthcare
 
 ## News
 
-- **[Feb. 2024]** New preprint on Latent Graph Diffusion for both generation and prediction tasks.
+- **[Jun. 2024]** Graduated from Tsinghua University with distinct honor: awarded Outstanding Graduate by Beijing Ministry of Education and by Tsinghua University; also awarded Outstanding Undergraduate Thesis by Beijing Ministry of Education and by Tsinghua University.
 - **[Jan. 2024]** Our paper on higher-order transformers is accepted to AISTATS 2024.
 - **[Dec. 2023]** I'm attending NeurIPS in New Orleans to present my paper. Welcome chat!
 - **[Oct. 2023]** Awarded the National Scholarship (Top 0.5% in Tsinghua University).
