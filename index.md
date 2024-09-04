@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first year undergraduate student in [MIT EECS](https://www.eecs.mit.edu/), co-advised by [Tommi Jaakkola](https://people.csail.mit.edu/tommi/) and [Stephen Bates](https://stephenbates19.github.io/). I am affiliated with [CSAIL](https://www.csail.mit.edu/) and [LIDS](https://lids.mit.edu/). My recent research focuses on the intersection of machine learning, generative models and AI4Science. 
+I am a first year PhD student in [MIT EECS](https://www.eecs.mit.edu/), co-advised by [Tommi Jaakkola](https://people.csail.mit.edu/tommi/) and [Stephen Bates](https://stephenbates19.github.io/). I am affiliated with [CSAIL](https://www.csail.mit.edu/) and [LIDS](https://lids.mit.edu/). My recent research focuses on the intersection of machine learning, generative models and AI4Science. 
 
 Prior to my PhD, I received a bachelor from the [Department of Automation](https://www.au.tsinghua.edu.cn/en/), School of Information at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.html). I am also a member of Class of General Artificial Intelligence of Tsinghua University, and I minor in statistics. In my undergraduate research, I am fortunate to work with [Muhan Zhang](https://muhanzhang.github.io/) at Institute for Artificial Intelligence of Peking University. We have great collaborations working on machine learning theories, graph neural networks, AI4Science and LLMs/foundation models. In the summer of 2023, I had the privilege to intern at UCSD advised by [Yusu Wang](http://yusu.belkin-wang.org/) and [Rose Yu](https://roseyu.com/) on machine learning. I also worked with [Gao Huang](https://www.gaohuang.net/) at Tsinghua University on computer vision. 
 
