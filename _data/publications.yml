@@ -15,8 +15,8 @@ main:
     conference_short: AISTATS 2024
     conference: Twenty-seventh International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2024.
     pdf: https://arxiv.org/abs/2404.03380
-    # code: https://github.com/zhouc20/HodgeRandomWalk
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    code: https://github.com/zhouc20/k-Transformer
+    bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/AISTATS2024.bib
     image: ./assets/img/k-Transformer.png
     # notes: Camera-ready would be soon available
 
