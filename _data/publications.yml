@@ -4,7 +4,7 @@ main:
     authors: <strong>Cai Zhou</strong>, Xiyuan Wang, Muhan Zhang
     conference_short: NeurIPS 2024
     conference: Thirty-eighth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    preprint: https://arxiv.org/abs/2402.02518
+    # pdf: https://arxiv.org/abs/2402.02518
     # code: https://github.com/zhouc20/HodgeRandomWalk
     # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
     image: ./assets/img/LatentGraphDiffusion.png
