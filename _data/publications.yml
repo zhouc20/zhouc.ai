@@ -1,13 +1,14 @@
 main:
 
-  - title: Latent Graph Diffusion：A Unified Framework for Generation and Prediction on Graphs
+  - title: Unifying Generation and Prediction on Graphs with Latent Graph Diffusion
     authors: <strong>Cai Zhou</strong>, Xiyuan Wang, Muhan Zhang
-    conference_short: Preprint
-    conference: Preprint. Under review.
-    pdf: https://arxiv.org/abs/2402.02518
+    conference_short: NeurIPS 2024
+    conference: Thirty-eighth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    # pdf: https://arxiv.org/abs/2402.02518
     # code: https://github.com/zhouc20/HodgeRandomWalk
     # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
-    image: ./assets/img/thumbnail.png
+    image: ./assets/img/LatentGraphDiffusion.png
+    notes: Camera-ready would be soon available
 
   - title: On the Theoretical Expressive Power and Design Space of High Order Graph Transformers
     authors: <strong>Cai Zhou</strong>, Rose Yu, Yusu Wang
