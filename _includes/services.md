@@ -11,7 +11,7 @@
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://iclr.cc/Conferences/2025"><autocolor>International Conference on Learning Representations (NeurIPS) 2025</autocolor></a></li>
+  <li><a href="https://iclr.cc/Conferences/2025"><autocolor>International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
