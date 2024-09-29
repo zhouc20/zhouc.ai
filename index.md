@@ -18,7 +18,7 @@ My research interest lies broadly in **theoretical and applied machine learning*
 
 ## News
 
-- **[Sept. 2024]** Our paper on latent graph diffusion for generation and prediction is accepted to NeurIPS 2024.
+- **[Sept. 2024]** Our paper on latent graph diffusion for both generation and prediction is accepted to NeurIPS 2024.
 - **[Jun. 2024]** Graduated from Tsinghua University with distinct honor: awarded Outstanding Graduate by Beijing Ministry of Education and by Tsinghua University (Top 1.5% in Tsinghua University); also awarded Outstanding Undergraduate Thesis by Beijing Ministry of Education and by Tsinghua University.
 - **[Jan. 2024]** Our paper on higher-order transformers is accepted to AISTATS 2024.
 - **[Dec. 2023]** I'm attending NeurIPS in New Orleans to present my paper. Welcome chat!
