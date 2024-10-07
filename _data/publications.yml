@@ -1,5 +1,15 @@
 main:
 
+  - title: Geometric Representation Condition Improves Equivariant Molecule Generation
+    authors: Zian Li, <strong>Cai Zhou</strong>, Xiyuan Wang, Xingang Peng, Muhan Zhang
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://arxiv.org/abs/2410.03655
+    # code: https://github.com/zhouc20/HodgeRandomWalk
+    # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
+    image: ./assets/img/Figure-3-GeoRCG.png
+    # notes: Camera-ready would be soon available
+
   - title: Unifying Generation and Prediction on Graphs with Latent Graph Diffusion
     authors: <strong>Cai Zhou</strong>, Xiyuan Wang, Muhan Zhang
     conference_short: NeurIPS 2024
