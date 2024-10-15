@@ -10,6 +10,16 @@ main:
     image: ./assets/img/Figure-3-GeoRCG.jpg
     # notes: Camera-ready would be soon available
 
+  - title: Towards Stable, Globally Expressive Graph Representations with Laplacian Eigenvectors
+    authors: Junru Zhou, <strong>Cai Zhou</strong>, Xiyuan Wang, Pan Li, Muhan Zhang
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://arxiv.org/abs/2410.09737
+    # code: https://github.com/zhouc20/HodgeRandomWalk
+    # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
+    image: ./assets/img/Figure-3-GeoRCG.jpg
+    # notes: Camera-ready would be soon available
+
   - title: Unifying Generation and Prediction on Graphs with Latent Graph Diffusion
     authors: <strong>Cai Zhou</strong>, Xiyuan Wang, Muhan Zhang
     conference_short: NeurIPS 2024
