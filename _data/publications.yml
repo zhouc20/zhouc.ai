@@ -17,7 +17,7 @@ main:
     pdf: https://arxiv.org/abs/2410.09737
     # code: https://github.com/zhouc20/HodgeRandomWalk
     # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
-    image: ./assets/img/Figure-3-GeoRCG.jpg
+    image: ./assets/img/OGE-Aug.jpg
     # notes: Camera-ready would be soon available
 
   - title: Unifying Generation and Prediction on Graphs with Latent Graph Diffusion
