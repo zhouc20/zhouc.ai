@@ -20,6 +20,16 @@ main:
     image: ./assets/img/OGE-Aug.jpg
     # notes: Camera-ready would be soon available
 
+  - title: FiTv2: Scalable and Improved Flexible Vision Transformer for Diffusion Model
+    authors: Zidong Wang, Zeyu Lu, Di Huang, <strong>Cai Zhou</strong>, Wanli Ouyang, and Lei Bai
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://arxiv.org/abs/2410.13925
+    code: https://github.com/whlzy/FiT
+    # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
+    image: ./assets/img/FiTv2.png
+    # notes: Camera-ready would be soon available
+
   - title: Unifying Generation and Prediction on Graphs with Latent Graph Diffusion
     authors: <strong>Cai Zhou</strong>, Xiyuan Wang, Muhan Zhang
     conference_short: NeurIPS 2024
