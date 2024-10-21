@@ -21,7 +21,7 @@ main:
     # notes: Camera-ready would be soon available
 
   - title: FiTv2：Scalable and Improved Flexible Vision Transformer for Diffusion Model
-    authors: Zidong Wang, Zeyu Lu, Di Huang, <strong>Cai Zhou</strong>, Wanli Ouyang, and Lei Bai
+    authors: Zidong Wang, Zeyu Lu, Di Huang, <strong>Cai Zhou</strong>, Wanli Ouyang, Lei Bai
     conference_short: Preprint
     conference: Preprint.
     pdf: https://arxiv.org/abs/2410.13925
