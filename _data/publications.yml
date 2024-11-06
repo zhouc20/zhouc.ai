@@ -30,7 +30,7 @@ main:
     image: ./assets/img/FiTv2.png
     # notes: Camera-ready would be soon available
 
-  - title: ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area
+  - title: ChemVLM：Exploring the Power of Multimodal Large Language Models in Chemistry Area
     authors: ..., <strong>Cai Zhou</strong>, ... 
     conference_short: Preprint
     conference: Preprint.
