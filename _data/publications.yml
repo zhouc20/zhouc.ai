@@ -30,6 +30,12 @@ main:
     image: ./assets/img/FiTv2.png
     # notes: Camera-ready would be soon available
 
+  - title: ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area
+    authors: ..., <strong>Cai Zhou</strong>, ... 
+    conference_short: Preprint
+    pdf: https://arxiv.org/abs/2408.07246
+    image: ./assets/image/ChemVLM.png
+
   - title: Unifying Generation and Prediction on Graphs with Latent Graph Diffusion
     authors: <strong>Cai Zhou</strong>, Xiyuan Wang, Muhan Zhang
     conference_short: NeurIPS 2024
