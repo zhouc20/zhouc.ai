@@ -42,8 +42,8 @@ main:
     conference_short: NeurIPS 2024
     conference: Thirty-eighth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/abs/2402.02518
-    # code: https://github.com/zhouc20/HodgeRandomWalk
-    # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
+    code: https://github.com/zhouc20/LatentGraphDiffusion
+    bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2024.bib
     image: ./assets/img/LatentGraphDiffusion.png
     # notes: Camera-ready would be soon available
 
