@@ -32,8 +32,8 @@ main:
 
   - title: ChemVLM：Exploring the Power of Multimodal Large Language Models in Chemistry Area
     authors: ..., <strong>Cai Zhou</strong>, ... 
-    conference_short: Preprint
-    conference: Preprint.
+    conference_short: AAAI 2025
+    conference: Thirty-Ninth AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://arxiv.org/abs/2408.07246
     image: ./assets/img/ChemVLM.png
 
