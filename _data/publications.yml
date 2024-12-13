@@ -48,10 +48,10 @@ main:
     # notes: Camera-ready would be soon available
 
   - title: Locally Supervised Deep Learning by Maximizing Information Propagation
-    authors: Yulin Wang, Zanlin Ni, Yifan Pu, <strong>Cai Zhou</strong>, Shiji Song, Gao Huang
+    authors: Yulin Wang, Zanlin Ni, Yifan Pu, <strong>Cai Zhou</strong>, Jixuan Ying, Shiji Song, Gao Huang
     conference_short: IJCV 2024
     conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2024.
-    # pdf: https://arxiv.org/abs/2310.19285
+    pdf: https://link.springer.com/article/10.1007/s11263-024-02296-0
     # code: https://github.com/zhouc20/HodgeRandomWalk
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/InfoPro.png
