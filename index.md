@@ -18,13 +18,9 @@ My research interest lies broadly in **theoretical and applied machine learning*
 
 ## News
 
+- **[May. 2025]** GeoRCG is accepted as a spotlight poster to ICML 2025.
 - **[Sept. 2024]** Our paper on latent graph diffusion for both generation and prediction is accepted to NeurIPS 2024.
 - **[Jun. 2024]** Graduated from Tsinghua University with distinct honor: awarded Outstanding Graduate by Beijing Ministry of Education and by Tsinghua University (Top 1.5% in Tsinghua University); also awarded Outstanding Undergraduate Thesis by Beijing Ministry of Education and by Tsinghua University.
-- **[Jan. 2024]** Our paper on higher-order transformers is accepted to AISTATS 2024.
-- **[Dec. 2023]** I'm attending NeurIPS in New Orleans to present my paper. Welcome chat!
-- **[Oct. 2023]** Awarded the National Scholarship (Top 0.5% in Tsinghua University).
-- **[Sept. 2023]** Our paper Facilitating Graph Neural Networks with Random Walk on Simplicial Complexes is accepted to NeurIPS 2023.
-- **[May. 2023]** Our paper From Relational Pooling to Subgraph GNNs: A Universal Framework for More Expressive Graph Neural Networks is accepted to ICML 2023.
 
 {% include_relative _includes/publications.md %}
 
