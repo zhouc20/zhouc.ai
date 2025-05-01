@@ -2,13 +2,13 @@ main:
 
   - title: Geometric Representation Condition Improves Equivariant Molecule Generation
     authors: Zian Li, <strong>Cai Zhou</strong>, Xiyuan Wang, Xingang Peng, Muhan Zhang
-    conference_short: ICML 2025
+    conference_short: ICML 2025 Spotlight
     conference: Forty-second International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    notes: Spotlight
     pdf: https://arxiv.org/abs/2410.03655
     # code: https://github.com/zhouc20/HodgeRandomWalk
     # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
     image: ./assets/img/Figure-3-GeoRCG.jpg
-    notes: Spotlight
     
   - title: Towards Stable, Globally Expressive Graph Representations with Laplacian Eigenvectors
     authors: Junru Zhou, <strong>Cai Zhou</strong>, Xiyuan Wang, Pan Li, Muhan Zhang
