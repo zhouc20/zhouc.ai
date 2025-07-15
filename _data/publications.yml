@@ -1,4 +1,13 @@
 main:
+  - title: Learning Diffusion Models with Flexible Representation Guidance
+    authors: Chenyu Wang*, <strong>Cai Zhou</strong>*, Sharut Gupta, Zongyu Lin, Stefanie Jegelka, Stephen Bates, Tommi Jaakkola
+    conference_short: Preprint
+    conference: Preprint. Also <span style="color:red">Oral</span> in ICML 2025 FM4LS Workshop, ICML 2025 GenBio Workshop.
+    # notes: null
+    pdf: https://arxiv.org/abs/2507.08980
+    code:  https://github.com/ChenyuWang-Monica/REED
+    # bibtex: 
+    image: ./assets/img/REED.png
 
   - title: Thought Calibration：Efficient and Confident Test-Time Scaling
     authors: Menghua Wu, <strong>Cai Zhou</strong>, Stephen Bates, Tommi Jaakkola
@@ -7,7 +16,7 @@ main:
     # notes: null
     pdf: https://arxiv.org/abs/2505.18404
     # code: https://github.com/zhouc20/HodgeRandomWalk
-    # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
+    # bibtex: 
     image: ./assets/img/Thought_Calibration.png
 
   - title: Geometric Representation Condition Improves Equivariant Molecule Generation
@@ -16,7 +25,7 @@ main:
     conference: Forty-second International Conference on Machine Learning <strong>(ICML)</strong>, 2025. <span style="color:red">Spotlight.</span>
     # notes: Spotlight
     pdf: https://arxiv.org/abs/2410.03655
-    # code: https://github.com/zhouc20/HodgeRandomWalk
+    code: https://github.com/GraphPKU/GeoRCG
     # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
     image: ./assets/img/Figure-3-GeoRCG.jpg
     
