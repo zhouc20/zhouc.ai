@@ -18,6 +18,7 @@ My research interest lies broadly in **theoretical and applied machine learning*
 
 ## News
 
+- **[August 2025]** Thought Calibration is accepted to EMNLP 2025 (main). Meet you in Suzhou!
 - **[May. 2025]** GeoRCG is accepted as a spotlight poster to ICML 2025. Will be attending ICML in Vancouver - welcome chat!
 - **[Sept. 2024]** Our paper on latent graph diffusion for both generation and prediction is accepted to NeurIPS 2024.
 - **[Jun. 2024]** Graduated from Tsinghua University with distinct honor: awarded Outstanding Graduate by Beijing Ministry of Education and by Tsinghua University (Top 1.5% in Tsinghua University); also awarded Outstanding Undergraduate Thesis by Beijing Ministry of Education and by Tsinghua University.
