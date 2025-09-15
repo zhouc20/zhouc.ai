@@ -12,7 +12,7 @@ main:
   - title: Thought Calibration：Efficient and Confident Test-Time Scaling
     authors: Menghua Wu, <strong>Cai Zhou</strong>, Stephen Bates, Tommi Jaakkola
     conference_short: EMNLP 2025 Oral
-    conference: The 2025 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, main. <span style="color:red"><strong>Oral.<strong></span>
+    conference: The 2025 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, main. <strong><span style="color:red">Oral.</span></strong>
     # notes: Oral
     pdf: https://arxiv.org/abs/2505.18404
     # code: https://github.com/zhouc20/HodgeRandomWalk
@@ -22,7 +22,7 @@ main:
   - title: Geometric Representation Condition Improves Equivariant Molecule Generation
     authors: Zian Li*, <strong>Cai Zhou</strong>*, Xiyuan Wang, Xingang Peng, Muhan Zhang
     conference_short: ICML 2025 Spotlight
-    conference: Forty-second International Conference on Machine Learning <strong>(ICML)</strong>, 2025. <span style="color:red"><strong>Spotlight.<strong></span>
+    conference: Forty-second International Conference on Machine Learning <strong>(ICML)</strong>, 2025. <strong><span style="color:red">Spotlight.</span></strong>
     # notes: Spotlight
     pdf: https://arxiv.org/abs/2410.03655
     code: https://github.com/GraphPKU/GeoRCG
