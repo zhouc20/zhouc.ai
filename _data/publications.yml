@@ -11,9 +11,9 @@ main:
 
   - title: Thought Calibration：Efficient and Confident Test-Time Scaling
     authors: Menghua Wu, <strong>Cai Zhou</strong>, Stephen Bates, Tommi Jaakkola
-    conference_short: EMNLP 2025
+    conference_short: EMNLP 2025 Oral
     conference: The 2025 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, main.
-    # notes: null
+    notes: Oral
     pdf: https://arxiv.org/abs/2505.18404
     # code: https://github.com/zhouc20/HodgeRandomWalk
     # bibtex: 
