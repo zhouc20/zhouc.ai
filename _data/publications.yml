@@ -1,8 +1,18 @@
 main:
+  - title: Next Semantic Scale Prediction via Hierarchical Diffusion Language Models
+    authors: <strong>Cai Zhou</strong>*, Chenyu Wang*, Dinghuai Zhang*, Shangyuan Tong, Yifei Wang, Stephen Bates, Tommi Jaakkola
+    conference_short: NeurIPS 2025
+    conference: Thirty-ninth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    # notes: null
+    # pdf:
+    # code:
+    # bibtex: 
+    image: ./assets/img/HDLM.png
+    
   - title: Learning Diffusion Models with Flexible Representation Guidance
     authors: Chenyu Wang*, <strong>Cai Zhou</strong>*, Sharut Gupta, Zongyu Lin, Stefanie Jegelka, Stephen Bates, Tommi Jaakkola
-    conference_short: Preprint
-    conference: Preprint. Also <span style="color:red">Oral</span> in ICML 2025 FM4LS Workshop, ICML 2025 GenBio Workshop.
+    conference_short: NeurIPS 2025
+    conference: Thirty-ninth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025. Also <span style="color:red">Oral</span> in ICML 2025 FM4LS Workshop, ICML 2025 GenBio Workshop.
     # notes: null
     pdf: https://arxiv.org/abs/2507.08980
     code:  https://github.com/ChenyuWang-Monica/REED
