@@ -18,6 +18,7 @@ My research interest lies broadly in **theoretical and applied machine learning*
 
 ## News
 
+- **[Sept. 2025]** HDLM and REED are accepted to NeurIPS 2025.
 - **[August 2025]** Thought Calibration is accepted to EMNLP 2025 (main) as Oral presentation. Meet you in Suzhou!
 - **[May. 2025]** GeoRCG is accepted as a spotlight poster to ICML 2025. Will be attending ICML in Vancouver - welcome chat!
 - **[Sept. 2024]** Our paper on latent graph diffusion for both generation and prediction is accepted to NeurIPS 2024.
