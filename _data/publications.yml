@@ -12,7 +12,7 @@ main:
   - title: Learning Diffusion Models with Flexible Representation Guidance
     authors: Chenyu Wang*, <strong>Cai Zhou</strong>*, Sharut Gupta, Zongyu Lin, Stefanie Jegelka, Stephen Bates, Tommi Jaakkola
     conference_short: NeurIPS 2025
-    conference: Thirty-ninth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025. Also <span style="color:red">Oral</span> in ICML 2025 FM4LS Workshop, ICML 2025 GenBio Workshop.
+    conference: Thirty-ninth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025. Also <strong><span style="color:red">Oral</span></strong> in ICML 2025 FM4LS Workshop, ICML 2025 GenBio Workshop.
     # notes: null
     pdf: https://arxiv.org/abs/2507.08980
     code:  https://github.com/ChenyuWang-Monica/REED
