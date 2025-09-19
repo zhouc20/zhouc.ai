@@ -1,6 +1,6 @@
 main:
   - title: Next Semantic Scale Prediction via Hierarchical Diffusion Language Models
-    authors: <strong>Cai Zhou</strong>*, Chenyu Wang*, Dinghuai Zhang*, Shangyuan Tong, Yifei Wang, Stephen Bates$\dagger$, Tommi Jaakkola$\dagger$
+    authors: <strong>Cai Zhou</strong>*, Chenyu Wang*, Dinghuai Zhang*, Shangyuan Tong, Yifei Wang, Stephen Bates$\\dagger$, Tommi Jaakkola&dagger
     conference_short: NeurIPS 2025
     conference: Thirty-ninth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     # notes: null
