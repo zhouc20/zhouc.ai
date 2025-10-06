@@ -4,7 +4,7 @@ main
     conference_short: preprint
     conference: Preprint.
     # notes: null
-    pdf:https://arxiv.org/abs/2510.03206
+    pdf: https://arxiv.org/abs/2510.03206
     # code:
     # bibtex: 
     image: ./assets/img/CCDD.png
