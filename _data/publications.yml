@@ -1,7 +1,7 @@
 main:
   - title: Coevolutionary Continuous Discrete Diffusion：Make Your Diffusion Language Model a Latent Reasoner
     authors: <strong>Cai Zhou</strong>, Chenxiao Yang, Yi Hu, Chenyu Wang, Chubin Zhang, Muhan Zhang, Lester Mackey, Tommi Jaakkola, Stephen Bates, Dinghuai Zhang
-    conference_short: preprint
+    conference_short: Preprint
     conference: Preprint.
     # notes: null
     pdf: https://arxiv.org/abs/2510.03206
