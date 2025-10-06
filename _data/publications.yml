@@ -1,4 +1,14 @@
-main:
+main
+  - title: Coevolutionary Continuous Discrete Diffusion：Make Your Diffusion Language Model a Latent Reasoner
+    authors: <strong>Cai Zhou</strong>, Chenxiao Yang, Yi Hu, Chenyu Wang, Chubin Zhang, Muhan Zhang, Lester Mackey, Tommi Jaakkola, Stephen Bates, Dinghuai Zhang
+    conference_short: preprint
+    conference: Preprint.
+    # notes: null
+    pdf:https://arxiv.org/abs/2510.03206
+    # code:
+    # bibtex: 
+    image: ./assets/img/CCDD.png
+    
   - title: Next Semantic Scale Prediction via Hierarchical Diffusion Language Models
     authors: <strong>Cai Zhou</strong>*, Chenyu Wang*, Dinghuai Zhang*, Shangyuan Tong, Yifei Wang, Stephen Bates†, Tommi Jaakkola†
     conference_short: NeurIPS 2025
