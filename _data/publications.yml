@@ -8,6 +8,13 @@ main:
     # code:
     # bibtex: 
     image: ./assets/img/CCDD.png
+
+  - title: On Powerful Ways to Generate：Autoregression, Diffusion, and Beyond
+    authors: Chenxiao Yang, <strong>Cai Zhou</strong>, David Wipf, Zhiyuan Li
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: http://arxiv.org/abs/2510.06190
+    image: ./assets/img/Generalized_MDM.png
     
   - title: Next Semantic Scale Prediction via Hierarchical Diffusion Language Models
     authors: <strong>Cai Zhou</strong>*, Chenyu Wang*, Dinghuai Zhang*, Shangyuan Tong, Yifei Wang, Stephen Bates†, Tommi Jaakkola†
