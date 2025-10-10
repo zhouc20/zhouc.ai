@@ -15,6 +15,13 @@ main:
     conference: Preprint.
     pdf: http://arxiv.org/abs/2510.06190
     image: ./assets/img/Generalized_MDM.png
+
+  - title: What Affects the Effective Depth of Large Language Models?
+    authors: Yi Hu, <strong>Cai Zhou</strong>, Muhan Zhang
+    conference_short: Preprint
+    conference: Preprint. Also in NeurIPS 2025 Mechanistic Interpretability Workshop.
+    pdf: https://openreview.net/pdf?id=ILuhAig8xo
+    image: ./assets/img/Effective_Depth.png
     
   - title: Next Semantic Scale Prediction via Hierarchical Diffusion Language Models
     authors: <strong>Cai Zhou</strong>*, Chenyu Wang*, Dinghuai Zhang*, Shangyuan Tong, Yifei Wang, Stephen Bates†, Tommi Jaakkola†
