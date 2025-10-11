@@ -12,8 +12,8 @@ Prior to my PhD, I received a bachelor from the [Department of Automation](https
 
 My research interest lies broadly in **theoretical and applied machine learning**. I aim to understand the foundations of machine learning, with a special focus on its probabilistic and geometric nature. I'm also interested in application areas including computer vision, natural language processing and computational biology. Some of my interested research topics include:
 
-- **Theoretical Machine Learning:** optimization, statistics, game theory
-- **Generative Models:** diffusion models, LLMs, multi-modal foundation models
+- **Machine Learning Foundations:** statistics, expressivity, optimization
+- **Generative Models:** diffusion models, LLM reasoning, multi-modal foundation models
 - **AI for Science:** geometric deep learning, AI4biology, AI4healthcare
 
 ## News
