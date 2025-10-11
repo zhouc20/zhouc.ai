@@ -18,8 +18,8 @@ My research interest lies broadly in **theoretical and applied machine learning*
 
 ## News
 
-- **[Oct. 2025]** Check out our new papers discussing fundamental thoughts on language generation and reasoning paradigm: diffusion v.s. AR ([Any Process Generation](https://arxiv.org/abs/2510.06190)) and continuous v.s. discrete ([CCDD](https://arxiv.org/abs/2510.03206))!
-- **[Sept. 2025]** HDLM and [REED](https://arxiv.org/abs/2507.08980) are accepted to NeurIPS 2025.
+- **[Oct. 2025]** Check out our new papers providing fundamental thoughts on language generation and reasoning paradigm: diffusion v.s. AR ([Any Process Generation](https://arxiv.org/abs/2510.06190)) and continuous v.s. discrete ([CCDD](https://arxiv.org/abs/2510.03206))!
+- **[Sept. 2025]** HDLM and [REED](https://arxiv.org/abs/2507.08980) are accepted to NeurIPS 2025. See you in SD!
 - **[August 2025]** [Thought Calibration](https://arxiv.org/abs/2505.18404) is accepted to EMNLP 2025 (main) as **Oral** presentation. Meet you in Suzhou!
 - **[May. 2025]** [GeoRCG](https://arxiv.org/abs/2410.03655) is accepted as a **Spotlight** poster to ICML 2025. Will be attending ICML in Vancouver - welcome chat!
 - **[Jun. 2024]** Graduated from Tsinghua University with distinct honor: awarded Outstanding Graduate by Beijing Ministry of Education and by Tsinghua University (Top 1.5% in Tsinghua University); also awarded Outstanding Undergraduate Thesis by Beijing Ministry of Education and by Tsinghua University.
