@@ -24,7 +24,7 @@ main:
     image: ./assets/img/Effective_Depth.png
 
   - title: SPG：Sandwiched Policy Gradient for Masked Diffusion Language Models
-    authors: Chenyu Wang, Paria Rashidinejad, DiJia Su, Song Jiang, Sid Wang, Siyan Zhao, Cai Zhou, Shannon Zejiang Shen, Feiyu Chen, Tommi Jaakkola, Yuandong Tian, Bo Liu
+    authors: Chenyu Wang, Paria Rashidinejad, DiJia Su, Song Jiang, Sid Wang, Siyan Zhao, <strong>Cai Zhou</strong>, Shannon Zejiang Shen, Feiyu Chen, Tommi Jaakkola, Yuandong Tian, Bo Liu
     conference_short: Preprint
     conference: Preprint.
     pdf: https://arxiv.org/abs/2510.09541
