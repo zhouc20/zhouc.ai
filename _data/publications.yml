@@ -28,8 +28,8 @@ main:
     conference_short: NeurIPS 2025
     conference: Thirty-ninth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     # notes: null
-    # pdf:
-    # code:
+    pdf: https://arxiv.org/abs/2510.08632
+    code: https://github.com/zhouc20/HDLM
     # bibtex: 
     image: ./assets/img/HDLM.png
     
