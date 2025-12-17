@@ -20,7 +20,7 @@ main:
     authors: Yi Hu, <strong>Cai Zhou</strong>, Muhan Zhang
     conference_short: Preprint
     conference: Preprint. Also in NeurIPS 2025 Mechanistic Interpretability Workshop.
-    pdf: https://openreview.net/pdf?id=ILuhAig8xo
+    pdf: https://arxiv.org/abs/2512.14064
     image: ./assets/img/Effective_Depth.png
 
   - title: SPG：Sandwiched Policy Gradient for Masked Diffusion Language Models
