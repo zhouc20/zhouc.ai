@@ -29,6 +29,13 @@ main:
     conference: Preprint.
     pdf: https://arxiv.org/abs/2510.09541
     image: ./assets/img/SPG.png
+
+  - title: CLAP：Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos
+    authors: Chubin Zhang, Jianan Wang, Zifeng Gao, Yue Su, Tianru Dai, <strong>Cai Zhou</strong>, Jiwen Lu, Yansong Tang
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://arxiv.org/abs/2601.04061
+    image: ./assets/img/CLAP.png
     
   - title: Next Semantic Scale Prediction via Hierarchical Diffusion Language Models
     authors: <strong>Cai Zhou</strong>*, Chenyu Wang*, Dinghuai Zhang*, Shangyuan Tong, Yifei Wang, Stephen Bates†, Tommi Jaakkola†
