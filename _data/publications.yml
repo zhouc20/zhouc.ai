@@ -9,13 +9,6 @@ main:
     # bibtex: 
     image: ./assets/img/CCDD.png
 
-  - title: On Powerful Ways to Generate：Autoregression, Diffusion, and Beyond
-    authors: Chenxiao Yang, <strong>Cai Zhou</strong>, David Wipf, Zhiyuan Li
-    conference_short: Preprint
-    conference: Preprint.
-    pdf: http://arxiv.org/abs/2510.06190
-    image: ./assets/img/Generalized_MDM.png
-
   - title: What Affects the Effective Depth of Large Language Models?
     authors: Yi Hu, <strong>Cai Zhou</strong>, Muhan Zhang
     conference_short: Preprint
@@ -23,19 +16,26 @@ main:
     pdf: https://arxiv.org/abs/2512.14064
     image: ./assets/img/Effective_Depth.png
 
-  - title: SPG：Sandwiched Policy Gradient for Masked Diffusion Language Models
-    authors: Chenyu Wang, Paria Rashidinejad, DiJia Su, Song Jiang, Sid Wang, Siyan Zhao, <strong>Cai Zhou</strong>, Shannon Zejiang Shen, Feiyu Chen, Tommi Jaakkola, Yuandong Tian, Bo Liu
-    conference_short: Preprint
-    conference: Preprint.
-    pdf: https://arxiv.org/abs/2510.09541
-    image: ./assets/img/SPG.png
-
   - title: CLAP：Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos
     authors: Chubin Zhang, Jianan Wang, Zifeng Gao, Yue Su, Tianru Dai, <strong>Cai Zhou</strong>, Jiwen Lu, Yansong Tang
     conference_short: Preprint
     conference: Preprint.
     pdf: https://arxiv.org/abs/2601.04061
     image: ./assets/img/CLAP.png
+
+  - title: On Powerful Ways to Generate：Autoregression, Diffusion, and Beyond
+    authors: Chenxiao Yang, <strong>Cai Zhou</strong>, David Wipf, Zhiyuan Li
+    conference_short: ICLR 2026
+    conference: Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    pdf: http://arxiv.org/abs/2510.06190
+    image: ./assets/img/Generalized_MDM.png
+
+  - title: SPG：Sandwiched Policy Gradient for Masked Diffusion Language Models
+    authors: Chenyu Wang, Paria Rashidinejad, DiJia Su, Song Jiang, Sid Wang, Siyan Zhao, <strong>Cai Zhou</strong>, Shannon Zejiang Shen, Feiyu Chen, Tommi Jaakkola, Yuandong Tian, Bo Liu
+    conference_short: ICLR 2026
+    conference: Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2510.09541
+    image: ./assets/img/SPG.png
     
   - title: Next Semantic Scale Prediction via Hierarchical Diffusion Language Models
     authors: <strong>Cai Zhou</strong>*, Chenyu Wang*, Dinghuai Zhang*, Shangyuan Tong, Yifei Wang, Stephen Bates†, Tommi Jaakkola†
