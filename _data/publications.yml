@@ -28,6 +28,7 @@ main:
     conference_short: ICLR 2026
     conference: Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: http://arxiv.org/abs/2510.06190
+    code: https://github.com/chr26195/AP-MDM
     image: ./assets/img/Generalized_MDM.png
 
   - title: SPG：Sandwiched Policy Gradient for Masked Diffusion Language Models
@@ -35,6 +36,7 @@ main:
     conference_short: ICLR 2026
     conference: Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: https://arxiv.org/abs/2510.09541
+    code: https://github.com/facebookresearch/SPG
     image: ./assets/img/SPG.png
     
   - title: Next Semantic Scale Prediction via Hierarchical Diffusion Language Models
@@ -63,7 +65,7 @@ main:
     conference: The 2025 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, main. <strong><span style="color:red">Oral.</span></strong>
     # notes: Oral
     pdf: https://arxiv.org/abs/2505.18404
-    # code: https://github.com/zhouc20/HodgeRandomWalk
+    code: https://github.com/rmwu/thought-calibration
     # bibtex: 
     image: ./assets/img/Thought_Calibration.png
 
