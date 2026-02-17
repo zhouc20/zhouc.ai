@@ -1,4 +1,11 @@
 main:
+  - title: Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation
+    authors: <strong>Cai Zhou</strong>*, Zijie Chen*, Zian Li, Jike Wang, Kaiyi Jiang, Pan Li, Rose Yu, Muhan Zhang, Stephen Bates, Tommi Jaakkola
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://arxiv.org/abs/2602.15022
+    image: ./assets/img/Canon.png
+    
   - title: Coevolutionary Continuous Discrete Diffusion：Make Your Diffusion Language Model a Latent Reasoner
     authors: <strong>Cai Zhou</strong>, Chenxiao Yang, Yi Hu, Chenyu Wang, Chubin Zhang, Muhan Zhang, Lester Mackey, Tommi Jaakkola, Stephen Bates, Dinghuai Zhang
     conference_short: Preprint
