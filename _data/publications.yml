@@ -4,6 +4,7 @@ main:
     conference_short: Preprint
     conference: Preprint.
     pdf: http://arxiv.org/abs/2604.01170
+    code: https://github.com/wzekai99/ORCA
     image: ./assets/img/ORCA.png
     
   - title: Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation
