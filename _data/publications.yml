@@ -1,4 +1,14 @@
 main:
+  - title: Coevolutionary Continuous Discrete Diffusion：Make Your Diffusion Language Model a Latent Reasoner
+    authors: <strong>Cai Zhou</strong>, Chenxiao Yang, Yi Hu, Chenyu Wang, Chubin Zhang, Muhan Zhang, Lester Mackey, Tommi Jaakkola, Stephen Bates, Dinghuai Zhang
+    conference_short: ICML 2026
+    conference: Forty-third International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    # notes: null
+    pdf: https://arxiv.org/abs/2510.03206
+    # code:
+    # bibtex: 
+    image: ./assets/img/CCDD.png
+    
   - title: Online Reasoning Calibration：Test-Time Training Enables Generalizable Conformal LLM Reasoning
     authors: <strong>Cai Zhou</strong>*, Zekai Wang*, Menghua Wu, Qianyu Julie Zhu, Flora C. Shi, Chenyu Wang, Ashia Wilson, Tommi Jaakkola, Stephen Bates
     conference_short: Preprint
@@ -13,16 +23,6 @@ main:
     conference: Preprint.
     pdf: https://arxiv.org/abs/2602.15022
     image: ./assets/img/Canon.png
-    
-  - title: Coevolutionary Continuous Discrete Diffusion：Make Your Diffusion Language Model a Latent Reasoner
-    authors: <strong>Cai Zhou</strong>, Chenxiao Yang, Yi Hu, Chenyu Wang, Chubin Zhang, Muhan Zhang, Lester Mackey, Tommi Jaakkola, Stephen Bates, Dinghuai Zhang
-    conference_short: ICML 2026
-    conference: Forty-third International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
-    # notes: null
-    pdf: https://arxiv.org/abs/2510.03206
-    # code:
-    # bibtex: 
-    image: ./assets/img/CCDD.png
 
   - title: What Affects the Effective Depth of Large Language Models?
     authors: Yi Hu, <strong>Cai Zhou</strong>, Muhan Zhang
