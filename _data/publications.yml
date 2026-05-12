@@ -30,7 +30,13 @@ main:
     conference: Preprint.
     pdf: https://arxiv.org/abs/2605.07693
     image: ./assets/img/LENSE.png
-  
+
+  - title: FlashMol：High-Quality Molecule Generation in as Few as Four Steps
+    authors: Xinyuan Wei, Zian Li, Shaoheng Yan, <strong>Cai Zhou</strong>, Muhan Zhang 
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://arxiv.org/abs/2605.07020
+    image: ./assets/img/FlashMol.png
 
   - title: What Affects the Effective Depth of Large Language Models?
     authors: Yi Hu, <strong>Cai Zhou</strong>, Muhan Zhang
