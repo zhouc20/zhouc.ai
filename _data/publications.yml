@@ -24,6 +24,14 @@ main:
     pdf: https://arxiv.org/abs/2602.15022
     image: ./assets/img/Canon.png
 
+  - title: Toward Better Geometric Representations for Molecule Generative Models
+    authors: Shaoheng Yan, Zian Li, <strong>Cai Zhou</strong>, Qiaojing Huang, Kai Liu, Muhan Zhang 
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://arxiv.org/abs/2605.07693
+    image: ./assets/img/LENSE.png
+  
+
   - title: What Affects the Effective Depth of Large Language Models?
     authors: Yi Hu, <strong>Cai Zhou</strong>, Muhan Zhang
     conference_short: Preprint
