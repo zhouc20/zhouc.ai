@@ -9,7 +9,7 @@ main:
     # bibtex: 
     image: ./assets/img/CCDD.png
     
-  - title: Online Reasoning Calibration：Test-Time Training Enables Generalizable Conformal LLM Reasoning
+  - title: "Online Reasoning Calibration: Test-Time Training Enables Generalizable Conformal LLM Reasoning"
     authors: <strong>Cai Zhou</strong>*, Zekai Wang*, Menghua Wu, Qianyu Julie Zhu, Flora C. Shi, Chenyu Wang, Ashia Wilson, Tommi Jaakkola, Stephen Bates
     conference_short: Preprint
     conference: Preprint.
@@ -17,42 +17,42 @@ main:
     code: https://github.com/wzekai99/ORCA
     image: ./assets/img/ORCA.png
     
-  - title: Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation
+  - title: "Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation"
     authors: <strong>Cai Zhou</strong>*, Zijie Chen*, Zian Li, Jike Wang, Kaiyi Jiang, Pan Li, Rose Yu, Muhan Zhang, Stephen Bates, Tommi Jaakkola
     conference_short: Preprint
     conference: Preprint.
     pdf: https://arxiv.org/abs/2602.15022
     image: ./assets/img/Canon.png
 
-  - title: Toward Better Geometric Representations for Molecule Generative Models
+  - title: "Toward Better Geometric Representations for Molecule Generative Models"
     authors: Shaoheng Yan, Zian Li, <strong>Cai Zhou</strong>, Qiaojing Huang, Kai Liu, Muhan Zhang 
     conference_short: Preprint
     conference: Preprint.
     pdf: https://arxiv.org/abs/2605.07693
     image: ./assets/img/LENSE.png
 
-  - title: FlashMol：High-Quality Molecule Generation in as Few as Four Steps
+  - title: "FlashMol: High-Quality Molecule Generation in as Few as Four Steps"
     authors: Xinyuan Wei, Zian Li, Shaoheng Yan, <strong>Cai Zhou</strong>, Muhan Zhang 
     conference_short: Preprint
     conference: Preprint.
     pdf: https://arxiv.org/abs/2605.07020
     image: ./assets/img/FlashMol.png
 
-  - title: What Affects the Effective Depth of Large Language Models?
+  - title: "What Affects the Effective Depth of Large Language Models?"
     authors: Yi Hu, <strong>Cai Zhou</strong>, Muhan Zhang
     conference_short: Preprint
     conference: Preprint. Also in NeurIPS 2025 Mechanistic Interpretability Workshop.
     pdf: https://arxiv.org/abs/2512.14064
     image: ./assets/img/Effective_Depth.png
 
-  - title: CLAP：Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos
+  - title: "CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos"
     authors: Chubin Zhang, Jianan Wang, Zifeng Gao, Yue Su, Tianru Dai, <strong>Cai Zhou</strong>, Jiwen Lu, Yansong Tang
     conference_short: Preprint
     conference: Preprint.
     pdf: https://arxiv.org/abs/2601.04061
     image: ./assets/img/CLAP.png
 
-  - title: On Powerful Ways to Generate：Autoregression, Diffusion, and Beyond
+  - title: "On Powerful Ways to Generate: Autoregression, Diffusion, and Beyond"
     authors: Chenxiao Yang, <strong>Cai Zhou</strong>, David Wipf, Zhiyuan Li
     conference_short: ICLR 2026
     conference: Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
@@ -60,7 +60,7 @@ main:
     code: https://github.com/chr26195/AP-MDM
     image: ./assets/img/Generalized_MDM.png
 
-  - title: SPG：Sandwiched Policy Gradient for Masked Diffusion Language Models
+  - title: "SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models"
     authors: Chenyu Wang, Paria Rashidinejad, DiJia Su, Song Jiang, Sid Wang, Siyan Zhao, <strong>Cai Zhou</strong>, Shannon Zejiang Shen, Feiyu Chen, Tommi Jaakkola, Yuandong Tian, Bo Liu
     conference_short: ICLR 2026
     conference: Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
@@ -68,7 +68,7 @@ main:
     code: https://github.com/facebookresearch/SPG
     image: ./assets/img/SPG.png
     
-  - title: Next Semantic Scale Prediction via Hierarchical Diffusion Language Models
+  - title: "Next Semantic Scale Prediction via Hierarchical Diffusion Language Models"
     authors: <strong>Cai Zhou</strong>*, Chenyu Wang*, Dinghuai Zhang*, Shangyuan Tong, Yifei Wang, Stephen Bates†, Tommi Jaakkola†
     conference_short: NeurIPS 2025
     conference: Thirty-ninth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
@@ -78,7 +78,7 @@ main:
     # bibtex: 
     image: ./assets/img/HDLM.png
     
-  - title: Learning Diffusion Models with Flexible Representation Guidance
+  - title: "Learning Diffusion Models with Flexible Representation Guidance"
     authors: Chenyu Wang*, <strong>Cai Zhou</strong>*, Sharut Gupta, Zongyu Lin, Stefanie Jegelka, Stephen Bates, Tommi Jaakkola
     conference_short: NeurIPS 2025
     conference: Thirty-ninth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025. Also <strong><span style="color:red">Oral</span></strong> in ICML 2025 FM4LS Workshop, ICML 2025 GenBio Workshop.
@@ -88,7 +88,7 @@ main:
     # bibtex: 
     image: ./assets/img/REED.png
 
-  - title: Thought Calibration：Efficient and Confident Test-Time Scaling
+  - title: "Thought Calibration: Efficient and Confident Test-Time Scaling"
     authors: Menghua Wu, <strong>Cai Zhou</strong>, Stephen Bates, Tommi Jaakkola
     conference_short: EMNLP 2025 Oral
     conference: The 2025 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, main. <strong><span style="color:red">Oral.</span></strong>
@@ -98,7 +98,7 @@ main:
     # bibtex: 
     image: ./assets/img/Thought_Calibration.png
 
-  - title: Geometric Representation Condition Improves Equivariant Molecule Generation
+  - title: "Geometric Representation Condition Improves Equivariant Molecule Generation"
     authors: Zian Li*, <strong>Cai Zhou</strong>*, Xiyuan Wang, Xingang Peng, Muhan Zhang
     conference_short: ICML 2025 Spotlight
     conference: Forty-second International Conference on Machine Learning <strong>(ICML)</strong>, 2025. <strong><span style="color:red">Spotlight.</span></strong>
@@ -108,7 +108,7 @@ main:
     # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
     image: ./assets/img/Figure-3-GeoRCG.jpg
     
-  - title: Towards Stable, Globally Expressive Graph Representations with Laplacian Eigenvectors
+  - title: "Towards Stable, Globally Expressive Graph Representations with Laplacian Eigenvectors"
     authors: Junru Zhou, <strong>Cai Zhou</strong>, Xiyuan Wang, Pan Li, Muhan Zhang
     conference_short: Preprint
     conference: Preprint.
@@ -118,7 +118,7 @@ main:
     image: ./assets/img/OGE-Aug.jpg
     # notes: Camera-ready would be soon available
 
-  - title: FiTv2：Scalable and Improved Flexible Vision Transformer for Diffusion Model
+  - title: "FiTv2: Scalable and Improved Flexible Vision Transformer for Diffusion Model"
     authors: Zidong Wang, Zeyu Lu, Di Huang, <strong>Cai Zhou</strong>, Wanli Ouyang, Lei Bai
     conference_short: Preprint
     conference: Preprint. 
@@ -128,14 +128,14 @@ main:
     image: ./assets/img/FiTv2.png
     # notes: Camera-ready would be soon available
 
-  - title: ChemVLM：Exploring the Power of Multimodal Large Language Models in Chemistry Area
+  - title: "ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area"
     authors: ..., <strong>Cai Zhou</strong>, ... 
     conference_short: AAAI 2025
     conference: Thirty-Ninth AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://arxiv.org/abs/2408.07246
     image: ./assets/img/ChemVLM.png
 
-  - title: Unifying Generation and Prediction on Graphs with Latent Graph Diffusion
+  - title: "Unifying Generation and Prediction on Graphs with Latent Graph Diffusion"
     authors: <strong>Cai Zhou</strong>, Xiyuan Wang, Muhan Zhang
     conference_short: NeurIPS 2024
     conference: Thirty-eighth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
@@ -145,7 +145,7 @@ main:
     image: ./assets/img/LatentGraphDiffusion.png
     # notes: Camera-ready would be soon available
 
-  - title: Locally Supervised Deep Learning by Maximizing Information Propagation
+  - title: "Locally Supervised Deep Learning by Maximizing Information Propagation"
     authors: Yulin Wang, Zanlin Ni, Yifan Pu, <strong>Cai Zhou</strong>, Jixuan Ying, Shiji Song, Gao Huang
     conference_short: IJCV 2024
     conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2024.
@@ -154,7 +154,7 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/InfoPro.png
 
-  - title: On the Theoretical Expressive Power and Design Space of High Order Graph Transformers
+  - title: "On the Theoretical Expressive Power and Design Space of High Order Graph Transformers"
     authors: <strong>Cai Zhou</strong>, Rose Yu, Yusu Wang
     conference_short: AISTATS 2024
     conference: Twenty-seventh International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2024.
@@ -164,7 +164,7 @@ main:
     image: ./assets/img/k-Transformer.png
     # notes: Camera-ready would be soon available
 
-  - title: Facilitating Graph Neural Networks with Random Walk on Simplicial Complexes
+  - title: "Facilitating Graph Neural Networks with Random Walk on Simplicial Complexes"
     authors: <strong>Cai Zhou</strong>, Xiyuan Wang, Muhan Zhang
     conference_short: NeurIPS 2023
     conference: Thirty-seventh Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
@@ -174,7 +174,7 @@ main:
     image: ./assets/img/Example_Hodge1.png
     # notes: Early Accept
 
-  - title: From Relational Pooling to Subgraph GNNs：A Universal Framework for More Expressive Graph Neural Networks
+  - title: "From Relational Pooling to Subgraph GNNs: A Universal Framework for More Expressive Graph Neural Networks"
     authors: <strong>Cai Zhou</strong>*, Xiyuan Wang*, Muhan Zhang
     conference_short: ICML 2023
     conference: Fortieth International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
