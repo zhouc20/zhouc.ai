@@ -52,6 +52,16 @@ main:
     pdf: https://arxiv.org/abs/2601.04061
     image: ./assets/img/CLAP.png
 
+  - title: "Towards Stable, Globally Expressive Graph Representations with Laplacian Eigenvectors"
+    authors: Junru Zhou, <strong>Cai Zhou</strong>, Xiyuan Wang, Pan Li, Muhan Zhang
+    conference_short: KDD 2026
+    conference: Thirty-second SIGKDD Conference on Knowledge Discovery and Data Mining, 2026.
+    pdf: https://arxiv.org/abs/2410.09737
+    # code: https://github.com/zhouc20/HodgeRandomWalk
+    # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
+    image: ./assets/img/OGE.png
+    # notes: Camera-ready would be soon available
+
   - title: "On Powerful Ways to Generate: Autoregression, Diffusion, and Beyond"
     authors: Chenxiao Yang, <strong>Cai Zhou</strong>, David Wipf, Zhiyuan Li
     conference_short: ICLR 2026
@@ -107,16 +117,6 @@ main:
     code: https://github.com/GraphPKU/GeoRCG
     # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
     image: ./assets/img/Figure-3-GeoRCG.jpg
-    
-  - title: "Towards Stable, Globally Expressive Graph Representations with Laplacian Eigenvectors"
-    authors: Junru Zhou, <strong>Cai Zhou</strong>, Xiyuan Wang, Pan Li, Muhan Zhang
-    conference_short: Preprint
-    conference: Preprint.
-    pdf: https://arxiv.org/abs/2410.09737
-    # code: https://github.com/zhouc20/HodgeRandomWalk
-    # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
-    image: ./assets/img/OGE-Aug.jpg
-    # notes: Camera-ready would be soon available
 
   - title: "FiTv2: Scalable and Improved Flexible Vision Transformer for Diffusion Model"
     authors: Zidong Wang, Zeyu Lu, Di Huang, <strong>Cai Zhou</strong>, Wanli Ouyang, Lei Bai
