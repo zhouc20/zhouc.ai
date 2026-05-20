@@ -8,6 +8,14 @@ main:
     # code:
     # bibtex: 
     image: ./assets/img/CCDD.png
+
+  - title: "HRM-Text: Efficient Pretraining Beyond Scaling"
+    authors: Guan Wang, Changling Liu, Chenyu Wang, <strong>Cai Zhou</strong>, Yuhao Sun, Yifei Wu, Shuai Zhen, Luca Scimeca, Yasin Abbasi Yadkori
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://sapientinc.github.io/HRM-Text/assets/HRM_Text.pdf
+    code: https://github.com/sapientinc/HRM-Text
+    image: ./assets/img/HRM-Text.png
     
   - title: "Online Reasoning Calibration: Test-Time Training Enables Generalizable Conformal LLM Reasoning"
     authors: <strong>Cai Zhou</strong>*, Zekai Wang*, Menghua Wu, Qianyu Julie Zhu, Flora C. Shi, Chenyu Wang, Ashia Wilson, Tommi Jaakkola, Stephen Bates
