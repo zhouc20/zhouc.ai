@@ -16,6 +16,13 @@ main:
     pdf: http://arxiv.org/abs/2604.01170
     code: https://github.com/wzekai99/ORCA
     image: ./assets/img/ORCA.png
+
+  - title: "In-Parameter Learning: Why Lifelong AI Systems Need More Than Longer Context"
+    authors: Yiding Wang*, Haotong Yang*, Pingzhi Tang*, Shijia Kang*, <strong>Cai Zhou</strong>*, ..., Muhan Zhang
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://github.com/MuLabPKU/In-Parameter-Learning/blob/main/Beyond_longer_context.pdf
+    image: ./assets/img/IPL.png
     
   - title: "Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation"
     authors: <strong>Cai Zhou</strong>*, Zijie Chen*, Zian Li, Jike Wang, Kaiyi Jiang, Pan Li, Rose Yu, Muhan Zhang, Stephen Bates, Tommi Jaakkola
