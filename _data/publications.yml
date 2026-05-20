@@ -18,7 +18,7 @@ main:
     image: ./assets/img/ORCA.png
 
   - title: "In-Parameter Learning: Why Lifelong AI Systems Need More Than Longer Context"
-    authors: Yiding Wang*, Haotong Yang*, Pingzhi Tang*, Shijia Kang*, <strong>Cai Zhou</strong>*, ..., Muhan Zhang
+    authors: Yiding Wang*, Haotong Yang*, Pingzhi Tang*, Shijia Kang*, <strong>Cai Zhou</strong>, ..., Muhan Zhang
     conference_short: Preprint
     conference: Preprint.
     pdf: https://github.com/MuLabPKU/In-Parameter-Learning/blob/main/Beyond_longer_context.pdf
