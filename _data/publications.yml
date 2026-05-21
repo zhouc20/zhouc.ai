@@ -5,7 +5,7 @@ main:
     conference: Forty-third International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
     # notes: null
     pdf: https://arxiv.org/abs/2510.03206
-    # code:
+    code: https://github.com/zhouc20/CCDD
     # bibtex: 
     image: ./assets/img/CCDD.png
 
@@ -13,7 +13,7 @@ main:
     authors: Guan Wang*, Changling Liu*, Chenyu Wang, <strong>Cai Zhou</strong>, Yuhao Sun, Yifei Wu, Shuai Zhen, Luca Scimeca, Yasin Abbasi Yadkori
     conference_short: Preprint
     conference: Preprint.
-    pdf: https://sapientinc.github.io/HRM-Text/assets/HRM_Text.pdf
+    pdf: https://arxiv.org/abs/2605.20613
     code: https://github.com/sapientinc/HRM-Text
     image: ./assets/img/HRM-Text.png
     
