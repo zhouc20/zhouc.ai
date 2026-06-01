@@ -42,7 +42,7 @@ main:
   - title: "Towards Stable, Globally Expressive Graph Representations with Laplacian Eigenvectors"
     authors: Junru Zhou, <strong>Cai Zhou</strong>, Xiyuan Wang, Pan Li, Muhan Zhang
     conference_short: KDD 2026
-    conference: Thirty-second SIGKDD Conference on Knowledge Discovery and Data Mining, 2026.
+    conference: Thirty-second SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2026.
     pdf: https://arxiv.org/abs/2410.09737
     # code: https://github.com/zhouc20/HodgeRandomWalk
     # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
