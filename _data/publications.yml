@@ -1,4 +1,12 @@
 main:
+  - title: "Online Reasoning Calibration: Test-Time Training Enables Generalizable Conformal LLM Reasoning"
+    authors: <strong>Cai Zhou</strong>*, Zekai Wang*, Menghua Wu, Qianyu Julie Zhu, Flora C. Shi, Chenyu Wang, Ashia Wilson, Tommi Jaakkola, Stephen Bates
+    conference_short: COLM 2026
+    conference: Third Conference on Language Modeling <strong>(COLM)</strong>, 2026.
+    pdf: http://arxiv.org/abs/2604.01170
+    code: https://github.com/wzekai99/ORCA
+    image: ./assets/img/ORCA.png
+    
   - title: "Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner"
     authors: <strong>Cai Zhou</strong>, Chenxiao Yang, Yi Hu, Chenyu Wang, Chubin Zhang, Muhan Zhang, Lester Mackey, Tommi Jaakkola, Stephen Bates, Dinghuai Zhang
     conference_short: ICML 2026
@@ -16,14 +24,6 @@ main:
     pdf: https://arxiv.org/abs/2605.20613
     code: https://github.com/sapientinc/HRM-Text
     image: ./assets/img/HRM-Text.png
-    
-  - title: "Online Reasoning Calibration: Test-Time Training Enables Generalizable Conformal LLM Reasoning"
-    authors: <strong>Cai Zhou</strong>*, Zekai Wang*, Menghua Wu, Qianyu Julie Zhu, Flora C. Shi, Chenyu Wang, Ashia Wilson, Tommi Jaakkola, Stephen Bates
-    conference_short: Preprint
-    conference: Preprint.
-    pdf: http://arxiv.org/abs/2604.01170
-    code: https://github.com/wzekai99/ORCA
-    image: ./assets/img/ORCA.png
 
   - title: "In-Parameter Learning: Why Lifelong AI Systems Need More Than Longer Context"
     authors: Yiding Wang*, Haotong Yang*, Pingzhi Tang*, Shijia Kang*, <strong>Cai Zhou</strong>, ..., Muhan Zhang
