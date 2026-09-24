@@ -1,4 +1,18 @@
 main:
+  - title: "Toward Better Geometric Representations for Molecule Generative Models"
+    authors: Shaoheng Yan, Zian Li, <strong>Cai Zhou</strong>, Qiaojing Huang, Kai Liu, Muhan Zhang 
+    conference_short: NeurIPS 2026
+    conference: Fortieth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2605.07693
+    image: ./assets/img/LENSE.png
+
+  - title: "FlashMol: High-Quality Molecule Generation in as Few as Four Steps"
+    authors: Xinyuan Wei, Zian Li, Shaoheng Yan, <strong>Cai Zhou</strong>, Muhan Zhang 
+    conference_short: NeurIPS 2026
+    conference: Fortieth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2605.07020
+    image: ./assets/img/FlashMol.png
+    
   - title: "Online Reasoning Calibration: Test-Time Training Enables Generalizable Conformal LLM Reasoning"
     authors: <strong>Cai Zhou</strong>*, Zekai Wang*, Menghua Wu, Qianyu Julie Zhu, Flora C. Shi, Chenyu Wang, Ashia Wilson, Tommi Jaakkola, Stephen Bates
     conference_short: COLM 2026
@@ -48,20 +62,6 @@ main:
     # bibtex: https://github.com/zhouc20/zhouc.ai/blob/main/assets/bibtex/NeurIPS2023.bib
     image: ./assets/img/OGE.png
     # notes: Camera-ready would be soon available
-
-  - title: "Toward Better Geometric Representations for Molecule Generative Models"
-    authors: Shaoheng Yan, Zian Li, <strong>Cai Zhou</strong>, Qiaojing Huang, Kai Liu, Muhan Zhang 
-    conference_short: Preprint
-    conference: Preprint.
-    pdf: https://arxiv.org/abs/2605.07693
-    image: ./assets/img/LENSE.png
-
-  - title: "FlashMol: High-Quality Molecule Generation in as Few as Four Steps"
-    authors: Xinyuan Wei, Zian Li, Shaoheng Yan, <strong>Cai Zhou</strong>, Muhan Zhang 
-    conference_short: Preprint
-    conference: Preprint.
-    pdf: https://arxiv.org/abs/2605.07020
-    image: ./assets/img/FlashMol.png
 
   - title: "What Affects the Effective Depth of Large Language Models?"
     authors: Yi Hu, <strong>Cai Zhou</strong>, Muhan Zhang
