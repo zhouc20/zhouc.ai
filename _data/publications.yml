@@ -1,4 +1,11 @@
 main:
+  - title: "From Surfaces to Volumes: Registered Geometry for Protein Representation Learning"
+    authors: Siyuan Chen, <strong>Cai Zhou</strong>, Jinrui Zhang, Zhaokang Liang, Taku Komura, Wojciech Matusik, Stephen Bates, Tommi Jaakkola, Wengong Jin, Peter Yichen Chen, Minghao Guo 
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://arxiv.org/abs/2609.36277
+    image: ./assets/img/Protein-Tetsphere.png
+
   - title: "Toward Better Geometric Representations for Molecule Generative Models"
     authors: Shaoheng Yan, Zian Li, <strong>Cai Zhou</strong>, Qiaojing Huang, Kai Liu, Muhan Zhang 
     conference_short: NeurIPS 2026
