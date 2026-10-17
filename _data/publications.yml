@@ -57,7 +57,7 @@ main:
     authors: Yiding Wang*, Haotong Yang*, Pingzhi Tang*, Shijia Kang*, <strong>Cai Zhou</strong>, ..., Muhan Zhang
     conference_short: Preprint
     conference: Preprint.
-    pdf: https://github.com/MuLabPKU/In-Parameter-Learning/blob/main/Beyond_longer_context.pdf
+    pdf: https://www.preprints.org/manuscript/202610.1247
     image: ./assets/img/IPL.png
     
   - title: "Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation"
