@@ -1,4 +1,11 @@
 main:
+  - title: "Protein Deimmunization with a Generative Diffusion Model"
+    authors: Zijie Chen, Chih-chieh Yu, <strong>Cai Zhou</strong>, Xinyun Jiang, Long Nguyen, Cameron Myhrvold, Tommi S Jaakkola, Kaiyi Jiang 
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://www.biorxiv.org/content/10.64898/2026.10.09.758136v1
+    image: ./assets/img/MESSI.png
+    
   - title: "From Surfaces to Volumes: Registered Geometry for Protein Representation Learning"
     authors: Siyuan Chen, <strong>Cai Zhou</strong>, Jinrui Zhang, Zhaokang Liang, Taku Komura, Wojciech Matusik, Stephen Bates, Tommi Jaakkola, Wengong Jin, Peter Yichen Chen, Minghao Guo 
     conference_short: Preprint
