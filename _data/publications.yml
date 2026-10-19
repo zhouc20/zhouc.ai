@@ -1,6 +1,6 @@
 main:
   - title: "Protein Deimmunization with a Generative Diffusion Model"
-    authors: Zijie Chen, Chih-chieh Yu, <strong>Cai Zhou</strong>, Xinyun Jiang, Long Nguyen, Cameron Myhrvold, Tommi Jaakkola, Kaiyi Jiang 
+    authors: Zijie Chen*, Chih-chieh Yu*, <strong>Cai Zhou</strong>, Xinyun Jiang, Long Nguyen, Cameron Myhrvold, Tommi Jaakkola, Kaiyi Jiang 
     conference_short: Preprint
     conference: Preprint.
     pdf: https://www.biorxiv.org/content/10.64898/2026.10.09.758136v1
@@ -14,7 +14,7 @@ main:
     image: ./assets/img/Protein-Tetsphere.png
 
   - title: "Toward Better Geometric Representations for Molecule Generative Models"
-    authors: Shaoheng Yan, Zian Li, <strong>Cai Zhou</strong>, Qiaojing Huang, Kai Liu, Muhan Zhang 
+    authors: Shaoheng Yan*, Zian Li*, <strong>Cai Zhou</strong>, Qiaojing Huang, Kai Liu, Muhan Zhang 
     conference_short: NeurIPS 2026
     conference: Fortieth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026.
     pdf: https://arxiv.org/abs/2605.07693
