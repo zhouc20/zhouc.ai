@@ -13,6 +13,13 @@ main:
     pdf: https://arxiv.org/abs/2609.36277
     image: ./assets/img/Protein-Tetsphere.png
 
+  - title: "EgoForesight: Effectively Scaling Policy Learning with Noisy Egocentric Actions"
+    authors: Chubin Zhang, Changyuan Wang, Yirui Wang, Ao Li, Shilin Ma, Yue Su, <strong>Cai Zhou</strong>, Xiuwei Xu, Tianle Zhang, Yansong Tang
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://arxiv.org/abs/2610.31845
+    image: ./assets/img/EgoForesight.png
+
   - title: "Toward Better Geometric Representations for Molecule Generative Models"
     authors: Shaoheng Yan*, Zian Li*, <strong>Cai Zhou</strong>, Qiaojing Huang, Kai Liu, Muhan Zhang 
     conference_short: NeurIPS 2026
