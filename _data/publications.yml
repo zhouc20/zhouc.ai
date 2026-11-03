@@ -52,6 +52,13 @@ main:
     # bibtex: 
     image: ./assets/img/CCDD.png
 
+  - title: "CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos"
+    authors: Chubin Zhang, Jianan Wang, Zifeng Gao, Yue Su, Tianru Dai, <strong>Cai Zhou</strong>, Jiwen Lu, Yansong Tang
+    conference_short: T-RO
+    conference: IEEE Transactions on Robotics <strong>(T-RO)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2601.04061
+    image: ./assets/img/CLAP.png
+
   - title: "HRM-Text: Efficient Pretraining Beyond Scaling"
     authors: Guan Wang*, Changling Liu*, Chenyu Wang, <strong>Cai Zhou</strong>, Yuhao Sun, Yifei Wu, Shuai Zhen, Luca Scimeca, Yasin Abbasi Yadkori
     conference_short: Preprint
@@ -90,13 +97,6 @@ main:
     conference: Preprint. Also in NeurIPS 2025 Mechanistic Interpretability Workshop.
     pdf: https://arxiv.org/abs/2512.14064
     image: ./assets/img/Effective_Depth.png
-
-  - title: "CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos"
-    authors: Chubin Zhang, Jianan Wang, Zifeng Gao, Yue Su, Tianru Dai, <strong>Cai Zhou</strong>, Jiwen Lu, Yansong Tang
-    conference_short: Preprint
-    conference: Preprint.
-    pdf: https://arxiv.org/abs/2601.04061
-    image: ./assets/img/CLAP.png
 
   - title: "On Powerful Ways to Generate: Autoregression, Diffusion, and Beyond"
     authors: Chenxiao Yang, <strong>Cai Zhou</strong>, David Wipf, Zhiyuan Li
