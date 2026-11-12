@@ -1,12 +1,4 @@
 main:
-  - title: "HyInv Technical Report"
-    authors: Haowei Lin, <strong>Cai Zhou</strong>, Xiangxin Zhou
-    conference_short: Preprint
-    conference: Technical Report.
-    pdf: https://arxiv.org/abs/2611.11997
-    code: https://github.com/Tencent-Hunyuan/Hyra-results/blob/main/AI4Science/hyinv
-    image: ./assets/img/HyInv.png
-  
   - title: "HyPLM Technical Report"
     authors: Haowei Lin, <strong>Cai Zhou</strong>, Xiangxin Zhou
     conference_short: Preprint
@@ -14,6 +6,14 @@ main:
     pdf: https://arxiv.org/abs/2611.12000
     code: https://github.com/Tencent-Hunyuan/Hyra-results/blob/main/AI4Science/hyplm_flash
     image: ./assets/img/HyPLM.png
+    
+  - title: "HyInv Technical Report"
+    authors: Haowei Lin, <strong>Cai Zhou</strong>, Xiangxin Zhou
+    conference_short: Preprint
+    conference: Technical Report.
+    pdf: https://arxiv.org/abs/2611.11997
+    code: https://github.com/Tencent-Hunyuan/Hyra-results/blob/main/AI4Science/hyinv
+    image: ./assets/img/HyInv.png
 
   - title: "Protein Deimmunization with a Generative Diffusion Model"
     authors: Zijie Chen*, Chih-chieh Yu*, <strong>Cai Zhou</strong>, Xinyun Jiang, Long Nguyen, Cameron Myhrvold, Tommi Jaakkola, Kaiyi Jiang 
